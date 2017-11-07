@@ -16,5 +16,18 @@ Install `brew-cask` if you haven't done it yet.
     $ brew cask uninstall font-caladea
     $ brew cask uninstall font-carlito
 
+---
+
+# Installing additional Chrome core fonts
+
+The Chrome core fonts include other additional fonts. You can install them using the [caskroom for fonts](https://github.com/caskroom/homebrew-fonts).
+
+    $ brew tap caskroom/fonts
+    $ brew cask install font-arimo
+    $ brew cask install font-cousine
+    $ brew cask install font-tinos
+
+---
+
 # License
 [MIT](http://thi.mit-license.org)

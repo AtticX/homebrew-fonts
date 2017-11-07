@@ -7,7 +7,7 @@ Install `brew-cask` if you haven't done it yet.
     $ brew install caskroom/cask/brew-cask
 
 # Installation
-    $ brew tap ticsw/fonts
+    $ brew tap AtticX/fonts
     $ brew cask install font-caladea
     $ brew cask install font-carlito
 

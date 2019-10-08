@@ -1,4 +1,4 @@
-cask :v1 => 'font-carlito' do
+cask 'font-carlito' do
   version '1.103'
   sha256 '962a6c3294117f6bca6e9a73c7fc9ef4eda7c13cb14ad7159f45ee6041a84666'
 

@@ -1,4 +1,4 @@
-cask :v1 => 'font-caladea' do
+cask 'font-caladea' do
   version '1.002'
   sha256 '417e132b3996ebac64779789adcf326c77117622fdb67b4bf53502941ff56c88'
 
